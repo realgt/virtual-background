@@ -1,7 +1,9 @@
 # virtual-background
 
 Provides virtual background support for linux clients. 
+
 *requires an nvidia graphics card to run*
+
 For use on Zoom or any other video conferencing app
 
 
