@@ -8,7 +8,7 @@ Based on Ben Elder's post https://elder.dev/posts/open-source-virtual-background
 
 ## install
 `git clone git@github.com:realgt/virtual-background.git`
-
+`cd virtual-background`
 `docker build -t bodypix ./bodypix`
 `docker build -t fakecam ./fakecam`
 
